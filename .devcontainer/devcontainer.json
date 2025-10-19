@@ -9,7 +9,8 @@
 		"vscode": {
 			"extensions": [
 				"golang.Go",
-				"ms-azuretools.vscode-containers"
+				"ms-azuretools.vscode-containers",
+				"ms-vscode.cpptools-extension-pack"
 			]
 		}
 	},
