@@ -4,7 +4,7 @@ import (
 	"slices"
 	"testing"
 
-	. "github.com/fikri-ajiwijaya/leetcode.go/problem_0005"
+	. "github.com/fikri-ajiwijaya/leetcode/problem_0005"
 )
 
 func LongestPalindrome_test(t *testing.T, s string, expected []string) {

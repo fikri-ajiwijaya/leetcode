@@ -3,7 +3,7 @@ package problem_0006_test
 import (
 	"testing"
 
-	. "github.com/fikri-ajiwijaya/leetcode.go/problem_0006"
+	. "github.com/fikri-ajiwijaya/leetcode/problem_0006"
 )
 
 func Convert_test(t *testing.T, s string, numRows int, expected string) {

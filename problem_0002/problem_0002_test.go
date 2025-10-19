@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	. "github.com/fikri-ajiwijaya/leetcode.go/problem_0002"
+	. "github.com/fikri-ajiwijaya/leetcode/problem_0002"
 )
 
 func List_test(t *testing.T, l []int) {

@@ -3,7 +3,7 @@ package problem_0007_test
 import (
 	"testing"
 
-	. "github.com/fikri-ajiwijaya/leetcode.go/problem_0007"
+	. "github.com/fikri-ajiwijaya/leetcode/problem_0007"
 )
 
 func Reverse_test(t *testing.T, x int, expected int) {

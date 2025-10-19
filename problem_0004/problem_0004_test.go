@@ -3,7 +3,7 @@ package problem_0004_test
 import (
 	"testing"
 
-	. "github.com/fikri-ajiwijaya/leetcode.go/problem_0004"
+	. "github.com/fikri-ajiwijaya/leetcode/problem_0004"
 )
 
 func FindMedianSortedArrays_test(t *testing.T, nums1 []int, nums2 []int, expected float64) {

@@ -3,7 +3,7 @@ package problem_0003_test
 import (
 	"testing"
 
-	. "github.com/fikri-ajiwijaya/leetcode.go/problem_0003"
+	. "github.com/fikri-ajiwijaya/leetcode/problem_0003"
 )
 
 func LengthOfLongestSubstring_test(t *testing.T, s string, expected int) {

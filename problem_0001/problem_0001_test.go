@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	. "github.com/fikri-ajiwijaya/leetcode.go/problem_0001"
+	. "github.com/fikri-ajiwijaya/leetcode/problem_0001"
 )
 
 func TwoSum_test(t *testing.T, nums []int, target int, expected []int) {
